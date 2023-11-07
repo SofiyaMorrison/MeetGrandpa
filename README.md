@@ -57,6 +57,24 @@
      ```**
 
    ##### **Note: file - index.js.**
+
+   Above countdown clocks you can see *Play Button*, if you press on a button you can hear song related to the project Meeting Grandpa.
+
+   We were using Methods **addEventListener** and **querySelector** to make music to play after pressing the button:
+   ####
+ **```
+       const button = document.querySelector("#myButton");
+        ```**
+
+   **```
+       button.addEventListener("click", function(){
+       ```**
+     
+   **```
+       document.querySelector("#myAudio").play();
+         ```**
+         
+   ##### **Note: file - index.js.**
    
 
    
