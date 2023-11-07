@@ -56,7 +56,7 @@
     document.querySelector(".seconds").textContent = displaySecond;
      ```**
 
-   #### **Note: file - index.js.**
+   ##### **Note: file - index.js.**
    
 
    
