@@ -8,7 +8,7 @@
 
    ### How to use the App.
 
-   After you opened a MeetGrandpa website via [http://localhost:3000](http://localhost:3000), on a buttom you can see four countdown clocks which are represent:
+   After you opened a MeetGrandpa website using *Copy Path* method, on a buttom you can see four countdown clocks which are represent:
 
    -Days
 
