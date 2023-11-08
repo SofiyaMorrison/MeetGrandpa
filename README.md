@@ -78,7 +78,9 @@
 
    ### Built With
 
- #### * [React](https://react.dev/)
-   
+ ####
+ * JavaScript
+ * CSS
+ * HTML
 
    
